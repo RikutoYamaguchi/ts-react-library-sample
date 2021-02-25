@@ -1,3 +1,4 @@
+import 'reflect-metadata';
 import React, { PropsWithChildren } from 'react';
 
 // eslint-disable-next-line @typescript-eslint/ban-types
